@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\private\\commands\\websocketserverwrapper.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.4.4\\unrealengine-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vimoagent\\definitions.vimoagent.h",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\public\\commands\\websocketserverwrapper.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\iwebsocketserver.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\websocketnetworkingdelegates.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\string",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xstring",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xpolymorphic_allocator.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cctype",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\inetworkingwebsocket.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\iwebsocketnetworkingmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

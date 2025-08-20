@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\intermediate\\build\\win64\\unrealeditor\\inc\\vimoagent\\uht\\vimoagent.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.4.4\\unrealengine-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vimoagent\\definitions.vimoagent.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

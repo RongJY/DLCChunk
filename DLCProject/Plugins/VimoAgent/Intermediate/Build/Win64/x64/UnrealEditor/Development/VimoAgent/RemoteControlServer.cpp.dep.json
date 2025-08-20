@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\private\\commands\\remotecontrolserver.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.4.4\\unrealengine-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vimoagent\\definitions.vimoagent.h",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\public\\commands\\remotecontrolserver.h",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\public\\commands\\serverbase.h",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\public\\commands\\websocketprobe.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\online\\websockets\\public\\iwebsocket.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\online\\websockets\\public\\websocketsmodule.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\iwebsocketserver.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\websocketnetworkingdelegates.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\string",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xstring",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xpolymorphic_allocator.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cctype",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\source\\vimoagent\\public\\commands\\websocketserverwrapper.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\inetworkingwebsocket.h",
+            "f:\\git\\dlcchunk\\dlcproject\\plugins\\vimoagent\\intermediate\\build\\win64\\unrealeditor\\inc\\vimoagent\\uht\\remotecontrolserver.generated.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\plugins\\experimental\\websocketnetworking\\source\\websocketnetworking\\public\\iwebsocketnetworkingmodule.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectconverter.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "e:\\ue5.4.4\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

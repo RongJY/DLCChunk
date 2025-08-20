@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cpp\\vrhandproject\\plugins\\vimoagent\\source\\vimoagent\\private\\vimoagentcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cpp\\vrhandproject\\intermediate\\build\\win64\\x64\\vrhandprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\cpp\\vrhandproject\\plugins\\vimoagent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vimoagent\\definitions.vimoagent.h",
+            "d:\\cpp\\vrhandproject\\plugins\\vimoagent\\source\\vimoagent\\public\\vimoagentcomponent.h",
+            "d:\\cpp\\vrhandproject\\plugins\\vimoagent\\intermediate\\build\\win64\\unrealeditor\\inc\\vimoagent\\uht\\vimoagentcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

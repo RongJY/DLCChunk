@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VimoAgent.cpp.obj": [
+			"RemoteControlServer.gen.cpp.obj",
+			"VimoAgent.init.gen.cpp.obj",
+			"VimoAgentInstSubsys.gen.cpp.obj",
+			"VimoAgentInterface.gen.cpp.obj",
+			"RemoteControlServer.cpp.obj",
+			"ServerBase.cpp.obj",
+			"VimoAgentInterface.cpp.obj",
+			"WebSocketServerWrapper.cpp.obj",
+			"VimoAgent.cpp.obj",
+			"VimoAgentInstSubsys.cpp.obj"
+		]
+	}
+}
